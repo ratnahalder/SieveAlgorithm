@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class SieveMain {
+	/**
+	 * @author Ratna Halder (ratnacse06gmail.com)
+	 */
 	
 	private int[] primeNumber;
 	private boolean[] markNonPrimeNumber;
